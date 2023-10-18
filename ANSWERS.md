@@ -10,3 +10,6 @@ Entity classes implemented and associated with repository classes.
 
 ## C - Expose data with a RESTFUL API
 Controller and Service classes implemented.
+
+## D - Scheduled Task
+AppointmentReminderService implemented to remind appointments.
